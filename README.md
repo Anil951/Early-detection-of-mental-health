@@ -16,6 +16,9 @@ DEVELOP A PREDICTIVE MODEL TO IDENTIFY EARLY SIGNS OF MENTAL HEALTH ISSUES IN AD
 ## Recommendations: 
 If a user shows signs of mental health issues, the application could recommend further evaluation or resources, such as speaking to a counselor, accessing mental health support services, or using self-help techniques. 
 
+# Work flow:
+![Flowchart (2)](https://github.com/user-attachments/assets/45401f0e-04d3-4791-9b74-cca161b6881e)
+
 ## Privacy & Ethical Considerations: 
 - Data Anonymization: Ensure that personal data is anonymized wherever possible,  especially health records, to comply with data privacy laws. 
 - Consent: The application should have explicit user consent for accessing sensitive data like social media activity and health records. 
