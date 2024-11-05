@@ -24,4 +24,9 @@ If a user shows signs of mental health issues, the application could recommend f
 ## Privacy & Ethical Considerations: 
 - Data Anonymization: Ensure that personal data is anonymized wherever possible,  especially health records, to comply with data privacy laws. 
 - Consent: The application should have explicit user consent for accessing sensitive data like social media activity and health records. 
-- Transparency: Users should be informed about how their data will be used and analyzed, and they should have the option to delete their data anytime. 
+- Transparency: Users should be informed about how their data will be used and analyzed, and they should have the option to delete their data anytime.
+
+
+<a href="https://github.com/Anil951/Early-detection-of-mental-health/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Anil951/Early-detection-of-mental-health" />
+</a>
