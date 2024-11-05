@@ -27,6 +27,3 @@ If a user shows signs of mental health issues, the application could recommend f
 - Transparency: Users should be informed about how their data will be used and analyzed, and they should have the option to delete their data anytime.
 
 
-<a href="https://github.com/Anil951/Early-detection-of-mental-health/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Anil951/Early-detection-of-mental-health" />
-</a>
