@@ -5,7 +5,7 @@ DEVELOP A PREDICTIVE MODEL TO IDENTIFY EARLY SIGNS OF MENTAL HEALTH ISSUES IN AD
 - Users can link their social media accounts (e.g., Twitter, Instagram, Reddit, Whatsapp) or upload data such as posts, comments, or activity logs.
   - For demo purpose we are extracting user's [**REDDIT**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/reddit_extract.ipynb) and [**WHATSAPP**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/whatsapp_extract.ipynb) data.
   - [**whatsapp exported chats**](https://github.com/Anil951/Early-detection-of-mental-health/tree/main/data/demo%20chats)
-- The app would analyze the emotional tone of their posts (Mentally Normal or Not Normal) and look for keywords or patterns related to mental health.
+- The app would analyze the emotional tone of their posts (Mentally Normal or Not Normal) by `naive bayes`,`DENSE` and `LSTM` ensemble modelling.
   - [**Mental issue prediction model from user's social media**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/models.ipynb)
   - [**step 1 implementation**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/implementation_step1.ipynb)
 
@@ -13,7 +13,8 @@ DEVELOP A PREDICTIVE MODEL TO IDENTIFY EARLY SIGNS OF MENTAL HEALTH ISSUES IN AD
 - Users can upload academic reports or provide access to school performance data (e.g., grades, attendance records, remarks).
   - [**generating demo score cards**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/generate_scorecards_images.ipynb)
   - [**score cards**](https://github.com/Anil951/Early-detection-of-mental-health/tree/main/data/demo%20score%20cards)
-- The app will detect changes in performance that may correlate with mental health issues, such as SUDDEN DROPS IN GRADES, INCREASED ABSENTEEISM and sentiment in TEACHER REMARKS
+- The app will extract data from uploaded images into dataframes through `tessaract OCR`
+- and then detect changes in performance that may correlate with mental health issues, such as SUDDEN DROPS IN GRADES, INCREASED ABSENTEEISM and sentiment in TEACHER REMARKS by `Data Analaysis`
   - [**step 2 implementation**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/implementation_step2.ipynb)
 
 ## Step 3: Anonymous Health Records: 
