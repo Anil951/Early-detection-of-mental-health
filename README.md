@@ -3,7 +3,7 @@ DEVELOP A PREDICTIVE MODEL TO IDENTIFY EARLY SIGNS OF MENTAL HEALTH ISSUES IN AD
 
 ## Step 1: Social Media Activity: 
 - Users can link their social media accounts (e.g., Twitter, Instagram, Reddit, Whatsapp) or upload data such as posts, comments, or activity logs.
-  - For demo purpose we are extracting user's [**REDDITl**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/reddit_extract.ipynb) and [**WHATSAPP**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/whatsapp_extract.ipynb) data.
+  - For demo purpose we are extracting user's [**REDDIT**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/reddit_extract.ipynb) and [**WHATSAPP**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/whatsapp_extract.ipynb) data.
   - [**whatsapp exported chats**](https://github.com/Anil951/Early-detection-of-mental-health/tree/main/data/demo%20chats)
 - The app would analyze the emotional tone of their posts (Mentally Normal or Not Normal) and look for keywords or patterns related to mental health.
   - [**Social Media Mental issue prediction model**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/models.ipynb)
