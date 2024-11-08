@@ -3,16 +3,22 @@ DEVELOP A PREDICTIVE MODEL TO IDENTIFY EARLY SIGNS OF MENTAL HEALTH ISSUES IN AD
 
 ## Step 1: Social Media Activity: 
 - Users can link their social media accounts (e.g., Twitter, Instagram, Reddit, Whatsapp) or upload data such as posts, comments, or activity logs.
+  - For demo purpose we are extracting user's [**REDDITl**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/reddit_extract.ipynb) and [**WHATSAPP**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/whatsapp_extract.ipynb) data.
+  - [**whatsapp exported chats**](https://github.com/Anil951/Early-detection-of-mental-health/tree/main/data/demo%20chats)
 - The app would analyze the emotional tone of their posts (Mentally Normal or Not Normal) and look for keywords or patterns related to mental health.
+  - [**Social Media Mental issue prediction model**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/models.ipynb)
+  - [**step 1 implementation**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/implementation_step1.ipynb)
 
 ## Step 2: School Performance Data: 
 - Users can upload academic reports or provide access to school performance data (e.g., grades, attendance records, remarks).
-- The app will detect changes in performance that may correlate with mental health issues, such as sudden drops in grades or increased absenteeism. 
+  - [**generating demo score cards**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/generate_scorecards_images.ipynb)
+  - [**score cards**](https://github.com/Anil951/Early-detection-of-mental-health/tree/main/data/demo%20score%20cards)
+- The app will detect changes in performance that may correlate with mental health issues, such as sudden drops in grades or increased absenteeism.
+  - [**step 2 implementation**](https://github.com/Anil951/Early-detection-of-mental-health/blob/main/implementation_step2.ipynb)
 
 ## Step 3: Anonymous Health Records: 
 - Users can upload anonymized health records, including any previous psychological evaluations, physical health data, or history of mental health consultations.
 - The app would analyze these records for any red flags related to mental well-being (e.g., patterns of anxiety, stress, or depression).
-
 
 
 ## Recommendations: 
