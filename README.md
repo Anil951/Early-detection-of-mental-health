@@ -27,6 +27,7 @@ Implementation:
 - **Conversational Analysis:** The chatbot evaluates the user’s responses for sentiment and tone, detecting signs of potential mental health issues.
 - **Voice Assistance:** Integration of voice recognition to assess the tone and emotion in spoken responses.
 - **Multilingual Support:** The chatbot can communicate in multiple languages to make the service more accessible.
+
 _Goal_: Provide real-time analysis of the user's mental state based on their responses and identify potential mental health issues.
 
 
