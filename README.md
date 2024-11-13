@@ -21,6 +21,14 @@ DEVELOP A PREDICTIVE MODEL TO IDENTIFY EARLY SIGNS OF MENTAL HEALTH ISSUES IN AD
 - Users can upload anonymized health records, including any previous psychological evaluations, physical health data, or history of mental health consultations.
 - The app would analyze these records for any red flags related to mental well-being (e.g., patterns of anxiety, stress, or depression).
 
+## Step 4: AI Chatbot
+- **Description:** The user interacts with an AI-powered chatbot that asks questions related to their daily life and mental state.
+Implementation:
+- **Conversational Analysis:** The chatbot evaluates the user’s responses for sentiment and tone, detecting signs of potential mental health issues.
+- **Voice Assistance:** Integration of voice recognition to assess the tone and emotion in spoken responses.
+- **Multilingual Support:** The chatbot can communicate in multiple languages to make the service more accessible.
+_Goal_: Provide real-time analysis of the user's mental state based on their responses and identify potential mental health issues.
+
 
 ## Recommendations: 
 If a user shows signs of mental health issues, the application could recommend further evaluation or resources, such as speaking to a counselor, accessing mental health support services, or using self-help techniques. 
